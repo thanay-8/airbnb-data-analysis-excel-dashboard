@@ -45,6 +45,10 @@ The Excel dashboard contains KPI cards and nine visualizations for quick analysi
 
 The dashboard combines charts for room type, neighbourhood, pricing, availability, and review trends.
 
+## Excel Dashboard
+
+[Download / View the Excel Dashboard](https://docs.google.com/spreadsheets/d/1nZzD8zMnVE24_wyHMxGhMqY-2NcaSveO/edit?usp=sharing)
+
 ## Key Insights
 - Entire home/apartment listings form a major portion of the Airbnb inventory.
 - The overall average listing price is approximately $137.94.
